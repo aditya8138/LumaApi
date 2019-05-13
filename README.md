@@ -1,4 +1,4 @@
-# Luma Technical Interview
+# Luma 
 
 ## Problem Definition
 
